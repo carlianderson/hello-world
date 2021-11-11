@@ -1,7 +1,10 @@
 ### dd's .gitignore ###
 
-bob/
-group2/
-group3/
-group4/
+#ignore everything
+*
+
+# except the following files:
+
+!.gitgnore
+!group1/
 
