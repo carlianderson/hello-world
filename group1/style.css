@@ -3,14 +3,33 @@
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< Updated upstream
 body{
     background-color: burlywood;
 }
+=======
+<<<<<<< Updated upstream
+body {
+    background:#789FA3;
+    }
+h1 {
+    color:#4D5F64;
+}
+
+h2 {
+    color:#48757F;
+=======
+body{
+    background-color: #1a2029;
+}
+>>>>>>> Stashed changes
 .wrapper{
     margin: auto 10% auto 10%;
     width: 80%;
     height: 900px;
     /* background-color: rgb(207, 143, 226); */
+<<<<<<< Updated upstream
+=======
 }
 .navBar{
     width: 100%;
@@ -30,7 +49,7 @@ body{
 .navBar ul li a{
     padding: 10px;
     text-decoration-line: none;
-    color: black;
+    color: #fffefd;
     font-size: 1.5em;
     font-weight: bold;
 }
@@ -44,6 +63,99 @@ body{
     width: 200px;
     float: left;
     padding-right: 20px;
+}
+.fortuneTeller{
+    margin: 0 auto 0 auto;
+    width: 600px;
+    
+}
+.fortuneTeller h1{
+    color: #fffefd;
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+}
+.navBar{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+<<<<<<< Updated upstream
+.navBar ul{
+    margin-top: 30px;
+    text-align: center;
+}
+.navBar ul li{
+    float: left;
+    padding: 10px;
+    list-style-type: none;
+=======
+<<<<<<< Updated upstream
+
+h1, h2, h3 {
+    margin-bottom:10px;
+}
+
+img {
+    float:right;
+    width:300px;
+    padding:30px; 
+    margin: 0 0 20px 20px;
+    border:#4D5F64 10px solid;
+=======
+.button{
+    margin: 0 37.5% 0 37.5%;
+    text-align: center;
+    width: 25%;
+    height: 60px;
+    align-items: center;
+    background-color: #dea80b;
+    border-radius: 2px;
+    padding: 5px;
+    border-style: outset;
+    font-weight:bold ;
+    border-radius: 20px;
+    
+}
+.teller{
+    width: 100%;
+    height: 700px;
+    background-image: url("img/fortune.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+}
+.navBar ul li a{
+    padding: 10px;
+    text-decoration-line: none;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+<<<<<<< Updated upstream
+.helloWorld{
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+    
+}
+.helloWorld img{
+    width: 200px;
+    float: left;
+    padding-right: 20px;
+=======
+<<<<<<< Updated upstream
+
+div#wrapper{
+    width:940px;
+    margin:0 auto 0 auto;
+    background:#D5DAB8;
+    padding:20px;
+
+>>>>>>> Stashed changes
 }
 .fortuneTeller{
     margin: 0 auto 0 auto;
@@ -81,6 +193,7 @@ body{
     font-family: Fruktur, "Fruktur";
     font-size: 1.2em;
 
+<<<<<<< Updated upstream
 }
 .about{
     margin: 0 auto 0 auto;
@@ -89,9 +202,28 @@ body{
     margin-top: 30px;
     padding: 30px;
     background-color: rgba(48, 47, 47, 0.274);
+=======
+p {
+    margin-bottom:20px;
+    color:black;
+}
+=======
+.about{
+    margin: 0 auto 0 auto;
+    width: 55%;
+    height: fit-content;
+    margin-top: 30px;
+    padding: 30px;
+    background-color: #e892cb86;
+>>>>>>> Stashed changes
     border-radius: 10px;
 }
 .about p{
     text-align: left;
     line-height: 1.5em;
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
